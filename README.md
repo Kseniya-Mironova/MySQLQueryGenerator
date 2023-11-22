@@ -1,5 +1,5 @@
-# Генератор SQL-запросов (MySQLQueryGenerator)
+# SQL Query Generator (MySQLQueryGenerator)
 
-Среда разработки: IntelliJ IDEA (java).
+Development environment: IntelliJ IDEA (java).
 
-База данных: MySQL.
+Database: MySQL.
