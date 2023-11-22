@@ -1,4 +1,4 @@
-package com.MySQLQueryGenerator.src.main.java;
+package src.main.java;
 
 import java.sql.Connection;
 import java.util.List;
